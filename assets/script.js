@@ -1,0 +1,1 @@
+console.log('The World Tomb is active.');
